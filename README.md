@@ -1,2 +1,2 @@
-# Snake_Water_Gun
+# Triton_Wars
 Build a Snake Water Gun game by using python.
